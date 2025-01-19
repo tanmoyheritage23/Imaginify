@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://imaginify-zeta-black.vercel.app/" target="_blank">
-      <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/daf9e91b-6342-4e9a-9361-8dc2bd01ce64" alt="Project Banner">
+      <img src="https://cloud.appwrite.io/v1/storage/buckets/678be496001f9a7fedab/files/678cf375003dfa4275d8/view?project=678bdd2600293ba9a089" alt="Project Banner">
     </a>
   <br />
 
